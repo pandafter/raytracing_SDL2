@@ -32,11 +32,15 @@ Este proyecto es una implementación básica de raytracing en C utilizando la bi
     ```
     ### Windows: Descarga SDL2 desde su sitio oficial y configura tu entorno de desarrollo.
 
-3. Compila el proyecto
+3. Limpia cualquier make anterior
+    ```wsl/bash
+    make clean
+    ```
+4. Compila el proyecto
     ```wsl/bash
     make
     ```
-4. Ejecuta el proyecto
+5. Ejecuta el proyecto
     ```wsl/bash
     ./raytracing
     ```
