@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "render.h": "c",
+        "stdbool.h": "c"
+    }
+}
